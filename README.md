@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IntentionalGameDesign
 - 👀 I’m interested in coding, gaming/game dev and cars
-- 🌱 I’m currently learning python c++ and maybe java
+- 🌱 I’m currently learning python c++ and maybe java and rust
 - 💞️ I’m looking to collaborate on working and helping people 
 - 📫 How to reach me my discord is intentional game design#9631 (say your from git hub pls)
 
